@@ -1,7 +1,7 @@
 ### NoisyPolygons ###
 A 2d shape generator that adds random noise along each edge.
 
-Each edge of a regular polygon is draw with a [MidpointDisplacemenPath](https://github.com/DM-UK/MidpointDisplacement/blob/master/src/main/java/midpointdisplacement/MidpointDisplacedPath.java).
+Each edge of a regular polygon is drawn with a [MidpointDisplacementPath](https://github.com/DM-UK/MidpointDisplacement/blob/master/src/main/java/midpointdisplacement/MidpointDisplacedPath.java).
 
 ![](https://github.com/DM-UK/NoisyPolygons/blob/master/src/main/resources/screenshot1.png)
 
